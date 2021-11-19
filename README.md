@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=Go&logoColor=white"/>&nbsp;   
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Springboot&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Blockchain-A100FF?style=plastic&logo=Chainlink"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>&nbsp;
 
