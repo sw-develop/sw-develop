@@ -19,7 +19,6 @@
 [![Sewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw-develop&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 📎[Tistory](https://fordevelop.tistory.com)
-📎[Velog](https://velog.io/@fordevelop)   
 
 
 <!--
